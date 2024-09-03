@@ -1,5 +1,4 @@
 ﻿# Gemini-Clone-Prince-Monga
-# Gemini-Clone
 
 AI-Powered Gemini Clone Project with React.js by Prince Monga | Responsive Web Development
 
@@ -27,3 +26,4 @@ Connect with Me:
 
 If you’re interested in collaborating on a project or want to learn more about my work, feel free to connect with me. Let’s create something amazing together!
 
+# Gemini-Clone
